@@ -1,2 +1,4 @@
 # manish-baing.github.io
-Manish Baing Blogs
+This Is My blog 
+
+##work under progress
